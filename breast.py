@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # ====== แก้ตรงนี้ให้ตรง GitHub ของอาจารย์ ======
-GITHUB_USER = "YOUR_GITHUB_USERNAME"
+GITHUB_USER = "PythonianSt"
 GITHUB_REPO = "breast"
 BRANCH = "main"
 
